@@ -5,13 +5,13 @@
 <div align="center">
 
 <a href="https://github.com/varunjain2409/java-jecrc-"><img src="https://img.shields.io/badge/GitHub-varunjain2409%2Fjava-jecrc--181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/varunjain2409/java-jecrc-/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
-<a href="https://github.com/varunjain2409/java-jecrc-/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
-<a href="https://github.com/varunjain2409/java-jecrc-/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
-<img src="https://img.shields.io/github/languages/top/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="Java-ED8B00?logo=openjdk"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="NetBeans-00758F?logo=apache"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="Apache%20Ant-EA6E2E?logo=apacheant"/>
+<a href="https://github.com/varunjain2409/java-jecrc-/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/java-jecrc-?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
+<a href="https://github.com/varunjain2409/java-jecrc-/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/java-jecrc-?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
+<a href="https://github.com/varunjain2409/java-jecrc-/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/java-jecrc-?style=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
+<img src="https://img.shields.io/github/languages/top/varunjain2409/java-jecrc-?style=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java-ED8B00?logo=openjdk"/>
+<img src="https://img.shields.io/badge/NetBeans-00758F?style=for-the-badge&logo=apache&logoColor=white" alt="NetBeans-00758F?logo=apache"/>
+<img src="https://img.shields.io/badge/Apache%20Ant-EA6E2E?style=for-the-badge&logo=apacheant&logoColor=white" alt="Apache%20Ant-EA6E2E?logo=apacheant"/>
 
 </div>
 
